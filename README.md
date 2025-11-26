@@ -20,9 +20,6 @@ Detail-oriented student with lots of enthusiasm in artificial intelligence (AI) 
 
 ![](https://github-profile-trophy.vercel.app/?username=codekush123&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 
